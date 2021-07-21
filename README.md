@@ -1,2 +1,2 @@
 # kumarsonu.github.io
-electronic structure understanding site
+Electronic Structure Understanding using EStA
