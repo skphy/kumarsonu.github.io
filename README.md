@@ -1,5 +1,4 @@
 # Home page
-Electronic Structure Understanding using EStA
 
 <h3 align="center"> Hi there 👋</h3>
 
@@ -19,6 +18,7 @@ I'm Sonu, a learner in materials science and physics.
 My areas of research: Thermoelectrics, Heterogeneous catalysis, and machine learning!
 </h3>
 
+# Electronic Structure Understanding using EStA
 <h3 align="center">
 <img src="https://skphy.github.io/esta/html/_images/esta_logo_general1_1.png" alt="stacks"/>
 </h3>
