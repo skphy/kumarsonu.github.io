@@ -25,5 +25,6 @@ My areas of research: Thermoelectrics, Heterogeneous catalysis, and machine lear
 
 <h3 align="center">
   Electronic Structure Understanding using EStA  
+  <br/>
   # Developement of electronic structure simulations using EStA
 </h3> 
