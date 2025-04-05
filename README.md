@@ -8,18 +8,18 @@ I'm Sonu, a learner in materials science and physics.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+💻 Programming machines using ML <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
 </h4>
 <p  align="center">
-<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+<a href="https://skphy.github.io/">https://skphy.github.io</a>
 </p>
 
 <br/>
 <h3 align="center">
-My Tech Stacks
+My areas of research: Thermoelectrics, Heterogeneous catalysis, and machine learning!
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+<img src="https://skphy.github.io/esta/html/_images/esta_logo_general1_1.png" alt="stacks"/>
 </h3>
 
