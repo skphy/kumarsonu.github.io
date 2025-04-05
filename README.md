@@ -20,6 +20,6 @@ My areas of research: Thermoelectrics, Heterogeneous catalysis, and machine lear
 
 Electronic Structure Understanding using EStA
 <h3 align="center">
-<img src="https://skphy.github.io/esta/html/_images/esta_logo_general1_1.png" alt="stacks"/>
+<img src="https://skphy.github.io/esta/html/_images/esta_logo_general1_1.png" alt="stacks" width=200/>
 </h3>
 
