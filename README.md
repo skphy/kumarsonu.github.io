@@ -8,7 +8,7 @@ I'm Sonu, a learner in materials science and physics.
 </p>
 
 <h4 align="center">
-💻 Programming machines using ML <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+💻 Programming machines using ML <a href="https://skphy.github.io/esta/html/index.html">@EStA-HOME</a> | 🌱 building <a href="https://skphy.github.io/esta/html/file3.html">Examples</a> | 💬 connect <a href="https://twitter.com/sonukumar_">@sonukumar_</a>
 </h4>
 <p  align="center">
 <a href="https://skphy.github.io/">https://skphy.github.io</a>
