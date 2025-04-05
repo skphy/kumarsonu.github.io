@@ -7,7 +7,7 @@ I'm Sonu, a learner in materials science and physics.
 </p>
 
 <h4 align="center">
-💻 Programming machines using ML <a href="https://skphy.github.io/esta/html/index.html">@EStA-HOME</a> | 🌱 building <a href="https://skphy.github.io/esta/html/file3.html">Examples</a> | 💬 connect <a href="https://twitter.com/sonukumar_">@sonukumar_</a>
+💻 Programming machines using ML <a href="https://skphy.github.io/esta/html/index.html">@EStA-HOME</a> | 🌱 building <a href="https://skphy.github.io/esta/html/file3.html">Examples</a> | 💬 connect <a href="https://twitter.com/sonukumar">@sonukumar</a>
 </h4>
 <p  align="center">
 <a href="https://skphy.github.io/">https://skphy.github.io</a>
@@ -18,7 +18,7 @@ I'm Sonu, a learner in materials science and physics.
 My areas of research: Thermoelectrics, Heterogeneous catalysis, and machine learning!
 </h3>
 
-# Electronic Structure Understanding using EStA
+## Electronic Structure Understanding using EStA
 <h3 align="center">
 <img src="https://skphy.github.io/esta/html/_images/esta_logo_general1_1.png" alt="stacks"/>
 </h3>
